@@ -1,3 +1,5 @@
+package software.ulpgc.arquitecture.model;
+
 import java.util.List;
 
 public record Wood(String id, String Name, Continent continent, ToneColor Tone, Country country, Quality quality, Float pricePerSquareMeters, List<Country> exportCountry) {

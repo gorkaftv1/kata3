@@ -1,3 +1,5 @@
+package software.ulpgc.arquitecture.model;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;

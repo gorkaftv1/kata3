@@ -1,3 +1,6 @@
+package software.ulpgc.arquitecture.io;
+
+import software.ulpgc.arquitecture.model.Wood;
 
 import java.io.BufferedReader;
 import java.io.File;
